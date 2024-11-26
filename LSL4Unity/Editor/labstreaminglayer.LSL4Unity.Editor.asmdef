@@ -1,0 +1,19 @@
+{
+    "name": "labstreaminglayer.LSL4Unity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "labstreaminglayer.LSL4Unity.Runtime"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

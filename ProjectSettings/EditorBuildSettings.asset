@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Samples/labstreaminglayer for Unity/1.16.0/SimplePhysicsEventOutlet/SimpleEventOutlet.unity
+    guid: 74dca66aeb40d5545a57643dba350a33
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c7c1ec4f37e8c524f8c638ee688814c5, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4ed5bc18205319546a5afd3213e1bd7d, type: 2}
+  m_UseUCBPForAssetBundles: 0
