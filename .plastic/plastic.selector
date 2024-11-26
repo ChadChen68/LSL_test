@@ -1,0 +1,4 @@
+repository "LSL_test/LSL_test@1374933991560@cloud"
+  path "/"
+    br "/main"
+    co "/main"
